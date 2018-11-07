@@ -2,10 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/g.lobet/Dropbox/science/projects/planet/planetBatch/colt.jar"/>
-	<classpathentry kind="lib" path="/Users/g.lobet/Dropbox/science/projects/planet/planetBatch/arpack.jar"/>
-	<classpathentry kind="lib" path="/Users/g.lobet/Dropbox/science/projects/planet/planetBatch/netlib.jar"/>
-	<classpathentry kind="lib" path="/Users/g.lobet/Dropbox/science/projects/planet/planetBatch/mtj.jar"/>
-	<classpathentry kind="lib" path="/Users/g.lobet/Dropbox/science/projects/planet/planetBatch/vecmath.jar"/>
+	<classpathentry kind="lib" path="/Users/g.lobet/Dropbox/science/projects/planet/planetBatch/jars/colt.jar"/>
+	<classpathentry kind="lib" path="/Users/g.lobet/Dropbox/science/projects/planet/planetBatch/jars/arpack.jar"/>
+	<classpathentry kind="lib" path="/Users/g.lobet/Dropbox/science/projects/planet/planetBatch/jars/netlib.jar"/>
+	<classpathentry kind="lib" path="/Users/g.lobet/Dropbox/science/projects/planet/planetBatch/jars/mtj.jar"/>
+	<classpathentry kind="lib" path="/Users/g.lobet/Dropbox/science/projects/planet/planetBatch/jars/vecmath.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
